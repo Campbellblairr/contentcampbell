@@ -84,11 +84,11 @@ const translations = {
 
         // Hero
         'hero-intro': 'Strategy. Style. Substance.',
-        'hero-title': 'High Performance Influencer Marketing',
-        'hero-subtitle': 'A clear strategy, a consistent voice, and content that does more than look good.',
-        'hero-body': 'Your brand grows through luxury collaborations, high-converting UGC, and personal coaching — all built around who you are and where you want to go. No shortcuts. No noise. Just a refined approach to influencer marketing that delivers, time and again.',
+        'hero-title': 'Content That Looks Beautiful. And Performs.',
+        'hero-subtitle': 'I create high-quality UGC, influencer content, and creative concepts for brands that want to grow their visibility, build trust, and drive results.',
+        'hero-body': 'From concept development to final delivery, I create content that is not only visually appealing but also designed to capture attention and support marketing goals.',
         'hero-btn-work': 'View My Work',
-        'hero-btn-contact': 'Get in Touch',
+        'hero-btn-contact': 'Book a Discovery Call',
         'scroll-down': 'Scroll Down',
 
         // About
@@ -114,8 +114,8 @@ const translations = {
         'services-tag': 'Services',
         'services-title': 'What We Can Build Together',
         'services-subtitle': "Most people stay stuck at potential. The ones who move fast have the right people in their corner too. You don't need millions of followers to work with great brands — you just need to know how to position yourself for it.",
-        'service-1-title': 'Creator Growth Sessions',
-        'service-1-desc': 'You already know you\'re capable of more. This is where you stop guessing and start growing — with a strategy, a content system, and a creative direction built entirely around you. The kind of clarity that others spend years trying to find on their own.',
+        'service-1-title': 'Creative Strategy & Concepts',
+        'service-1-desc': 'From initial ideation to full campaign execution, I develop creative concepts that align with your brand\'s unique identity. Stop blending in and start standing out with strategic content that drives engagement and captures attention.',
         'service-2-title': 'Brand Collaborations',
         'service-2-desc': 'Your product deserves to be seen by the right people, in the right way. Through authentic storytelling and a highly engaged audience, your brand gets more than visibility — it gets trust. And trust is what converts.',
         'service-3-title': 'Done-For-You UGC',
@@ -177,11 +177,11 @@ const translations = {
 
         // Hero
         'hero-intro': 'Strategie. Stijl. Inhoud.',
-        'hero-title': 'High Performance Influencer Marketing',
-        'hero-subtitle': 'Een heldere strategie, een consistente stem en content die meer doet dan er goed uitzien.',
-        'hero-body': 'Jouw merk groeit via luxe samenwerkingen, high-converting UGC en persoonlijke coaching — allemaal gebouwd rond wie jij bent en waar je naartoe wilt. Geen shortcuts. Geen ruis. Alleen een verfijnde aanpak van influencer marketing die keer op keer resultaat levert.',
+        'hero-title': 'Content Dat Er Prachtig Uitziet. En Presteert.',
+        'hero-subtitle': 'Ik creëer hoogwaardige UGC, influencer content en creatieve concepten voor merken die hun zichtbaarheid willen vergroten, vertrouwen willen opbouwen en resultaten willen stimuleren.',
+        'hero-body': 'Van conceptontwikkeling tot uiteindelijke oplevering creëer ik content die niet alleen visueel aantrekkelijk is, maar ook is ontworpen om de aandacht te trekken en marketingdoelen te ondersteunen.',
         'hero-btn-work': 'Bekijk Mijn Werk',
-        'hero-btn-contact': 'Neem Contact Op',
+        'hero-btn-contact': 'Plan een Discovery Call',
         'scroll-down': 'Scroll Naar Beneden',
 
         // About
@@ -207,8 +207,8 @@ const translations = {
         'services-tag': 'Diensten',
         'services-title': 'Wat We Samen Kunnen Bouwen',
         'services-subtitle': 'De meeste mensen blijven steken in potentie. Degenen die snel gaan, hebben ook de juiste mensen aan hun zijde. Je hebt geen miljoenen volgers nodig om met geweldige merken te werken — je moet alleen weten hoe je jezelf daarvoor positioneert.',
-        'service-1-title': 'Creator Growth Sessies',
-        'service-1-desc': 'Je weet al dat je tot meer in staat bent. Dit is waar je stopt met gokken en begint met groeien — met een strategie, een contentsysteem en een creatieve richting die volledig om jou heen is gebouwd. Het soort helderheid waar anderen jaren over doen om het zelf te vinden.',
+        'service-1-title': 'Creatieve Strategie & Concepten',
+        'service-1-desc': 'Van initiële ideevorming tot volledige campagne-uitvoering, ik ontwikkel creatieve concepten die aansluiten bij de unieke identiteit van je merk. Stop met opgaan in de massa en begin op te vallen met strategische content die interactie stimuleert en de aandacht trekt.',
         'service-2-title': 'Merk Samenwerkingen',
         'service-2-desc': 'Jouw product verdient het om op de juiste manier door de juiste mensen gezien te worden. Door authentieke storytelling en een zeer betrokken publiek krijgt jouw merk meer dan alleen zichtbaarheid — het krijgt vertrouwen. En vertrouwen is wat converteert.',
         'service-3-title': 'Done-For-You UGC',
