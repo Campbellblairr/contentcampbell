@@ -80,15 +80,15 @@ const translations = {
         'nav-about': 'About',
         'nav-work': 'Work',
         'nav-services': 'Services',
+        'nav-coaching': '1:1 Strategy',
         'nav-contact': 'Contact',
 
         // Hero
         'hero-intro': 'Strategy. Style. Substance.',
-        'hero-title': 'Content That Looks Beautiful. And Performs.',
-        'hero-subtitle': 'I create high-quality UGC, influencer content, and creative concepts for brands that want to grow their visibility, build trust, and drive results.',
-        'hero-body': 'From concept development to final delivery, I create content that is not only visually appealing but also designed to capture attention and support marketing goals.',
+        'hero-title': 'Get higher paying collaborations through the right strategy',
+        'hero-subtitle': 'Stop settling for low-value brand deals. I partner with creators to refine their positioning and strategy, helping you secure premium, high-paying collaborations with top-tier brands.',
+        'hero-body': 'As your Creative Strategist, I guide you step-by-step to upgrade your content quality, elevate your personal brand, and land high-paying clients. Through tailored consulting and proven negotiation frameworks, I\'ll help you build the authority needed to work with premium brands.',
         'hero-btn-work': 'View My Work',
-        'hero-btn-contact': 'Book a Discovery Call',
         'scroll-down': 'Scroll Down',
 
         // About
@@ -173,15 +173,15 @@ const translations = {
         'nav-about': 'Over Mij',
         'nav-work': 'Werk',
         'nav-services': 'Diensten',
+        'nav-coaching': '1:1 Strategie',
         'nav-contact': 'Contact',
 
         // Hero
         'hero-intro': 'Strategie. Stijl. Inhoud.',
-        'hero-title': 'Content Dat Er Prachtig Uitziet. En Presteert.',
-        'hero-subtitle': 'Ik creëer hoogwaardige UGC, influencer content en creatieve concepten voor merken die hun zichtbaarheid willen vergroten, vertrouwen willen opbouwen en resultaten willen stimuleren.',
-        'hero-body': 'Van conceptontwikkeling tot uiteindelijke oplevering creëer ik content die niet alleen visueel aantrekkelijk is, maar ook is ontworpen om de aandacht te trekken en marketingdoelen te ondersteunen.',
+        'hero-title': 'Krijg beter betaalde samenwerkingen door de juiste strategie',
+        'hero-subtitle': 'Stop met het accepteren van goedkope merkdeals. Ik help creators hun positionering en contentstrategie te verfijnen, zodat je premium, goedbetaalde samenwerkingen met topmerken kunt bemachtigen.',
+        'hero-body': 'Als jouw Creatieve Strateeg begeleid ik je stap voor stap om je contentkwaliteit te verbeteren, je personal brand te versterken en high-paying klanten aan te trekken. Met persoonlijke consulting en bewezen onderhandelingstechnieken help ik je de autoriteit op te bouwen die nodig is om met premium merken te werken.',
         'hero-btn-work': 'Bekijk Mijn Werk',
-        'hero-btn-contact': 'Plan een Discovery Call',
         'scroll-down': 'Scroll Naar Beneden',
 
         // About
